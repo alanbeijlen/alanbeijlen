@@ -1,32 +1,28 @@
 # Hallo, ik ben Alan Beijlen 👋
+### Ethical Hacker / Pentester
 
-### Cybersecurity Professional
+Tweetalige (NL/EN) Ethisch Hacker met een afgeronde hbo-bootcamp gericht op penetratietesten en security-onderzoek. Mijn focus ligt op het methodisch analyseren van aanvalspaden binnen infrastructuren en netwerken om risico's in kaart te brengen en te verbinden met de dagelijkse operatie. 
 
-Ik combineer technische securitykennis met een academische achtergrond in de **Toegepaste Psychologie**. Hierdoor kijk ik verder dan alleen de techniek; ik analyseer risico's zoals **social engineering** en **insider threats** vanuit een gedragsperspectief.
+Vanuit mijn achtergrond in de Toegepaste Psychologie (BSc) betrek ik hierbij de menselijke factor binnen informatiebeveiliging. Ik ben communicatief vaardig in het opstellen van heldere pentestrapporten, waarin ik complexe technische kwetsbaarheden en analyses begrijpelijk vertaal naar bruikbare adviezen voor de eindgebruiker en het management.
 
----
+🚀 Hacking Skills
+- 🛡️ Uitvoeren van vulnerability-analyses en penetratietesten conform de PTES-methodiek.
+- 💻 Lab-omgevingen onderhouden en uitbreiden in VMware om complexe CVE's en aanvalspaden te simuleren.
+- 📝 Technisch security-onderzoek vertalen naar heldere, direct bruikbare pentestrapportages.
 
-## 🚀 Waar ik mee bezig ben
-* 🎓 Afronden van de **Ethical Hacker/Pentester Bootcamp** bij NOVI Hogeschool.
-* 🛡️ Focus op **GRC** (ISO 27001, NIS2) en **Human Risk Management**.
-* 💻 Lab-omgevingen bouwen in **VMware** om CVE's en aanvalspaden te simuleren.
-* 📈 Beschikbaar voor een nieuwe uitdaging per **1 juni 2026**.
+🛠️ Technische Stack
+- **Offensive:** Kali Linux, BurpSuite, Wireshark, Nmap, Netcat.
+- **Defensive:** Splunk, Elastic/ELK Stack, Microsoft Defender.
+- **Frameworks & Kaders:** PTES, Cyber Kill Chain, Unified Kill Chain, MITRE ATT&CK, RAVIB.
+- **Compliance:** ISO 27001, BIO, AVG/GDPR, NIS2.
+- **Scripting:** Python, Bash.
 
-## 🛠️ Technische Stack
-* **Defensive:** SIEM (Splunk, ELK), Microsoft Defender, Logcorrelatie.
-* **Offensive:** Kali Linux, Nmap, Metasploit, BurpSuite, Wireshark.
-* **Compliance:** ISO 27001, BIO, AVG/GDPR, DORA.
-* **Scripting:** PowerShell, Bash, Python (in ontwikkeling).
-* **Methodieken:** Agile/Scrum (PSM I, PSPO I, PSK I gecertificeerd).
+📂 Uitgelichte Projecten
+- **[MindGate Challenge]**: Ontwerp van een gesegmenteerde VMware-netwerkomgeving, exploitatie van bekende CVE's, remote code execution, SSH-pivoting en privilege escalation, afgerond met twee PTES-conforme pentestrapporten.
+- **[Onderzoeksrapport MKB-Telecomfranchise]**: Volledige ISO 27001:2022 audit over alle 93 beheersmaatregelen en een dreigingsanalyse opgesteld op basis van de Cyber Kill Chain and MITRE ATT&CK.
+- **[Kwantitatieve Risicoanalyse]**: Risicoberekeningen via de RAVIB-methodiek (inclusief SLE, ALE en ROSI) als onderbouwing van investeringsadviezen.
 
-## 📂 Uitgelichte Projecten
-* **[MindGate Challenge]:** Ontwerp van gesegmenteerde VMware-netwerken en uitvoering van remote code execution, SSH-pivoting/privilege escalation.
-* **[Onderzoeksrapport MKB-Telecomfranchise]:** ISO 27001:2022 audit uitgevoerd en een verbeter- en implementatieplan uitgewerkt gericht op stijging in het SANS-volwassenheidsniveau, inclusief juridisch kader.
-* **[Ransomware Analyse]:** Kwantitatieve risicoanalyse via RAVIB en MITRE ATT&CK mapping.
-
----
-
-## 📫 Contact
-* 🌍 Woonachtig in **Voorschoten** 
-* 💼 [LinkedIn](https://linkedin.com/in/Alan-Beijlen) 
-* 🛡️ [TryHackMe Profiel](https://tryhackme.com/p/SBEH1)
+📫 Contact
+- 🌍 Woonachtig in Voorschoten, Nederland
+- 💼 [LinkedIn](https://linkedin.com/in/Alan-Beijlen)
+- 🛡️ [TryHackMe Profiel](https://tryhackme.com) (Cyber Security 101)
