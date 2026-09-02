@@ -1,5 +1,5 @@
 # Hallo, ik ben Alan Beijlen 👋
-### Ethical Hacker / Pentester
+### Cybersecurity specialist
 
 Tweetalige (NL/EN) Ethisch Hacker met een afgeronde hbo-bootcamp gericht op penetratietesten en security-onderzoek. Mijn focus ligt op het methodisch analyseren van aanvalspaden binnen infrastructuren en netwerken om risico's in kaart te brengen en te verbinden met de dagelijkse operatie. 
 
