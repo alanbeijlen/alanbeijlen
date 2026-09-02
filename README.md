@@ -3,7 +3,7 @@
 
 Tweetalige (NL/EN) Ethisch Hacker met een afgeronde hbo-bootcamp gericht op security-onderzoek en penetratietesten. Mijn focus ligt op het methodisch analyseren van aanvalspaden binnen infrastructuren en netwerken om risico's in kaart te brengen en te verbinden met de dagelijkse operatie. 
 
-Vanuit mijn achtergrond in de Toegepaste Psychologie (BSc) betrek ik hierbij de menselijke factor binnen informatiebeveiliging. Ik ben communicatief vaardig in het opstellen van heldere pentestrapporten, waarin ik complexe technische kwetsbaarheden en analyses begrijpelijk vertaal naar bruikbare adviezen voor de eindgebruiker en het management.
+Vanuit mijn achtergrond in de Toegepaste Psychologie (BSc) betrek ik hierbij de menselijke factor binnen informatiebeveiliging. Ik ben communicatief vaardig in het opstellen en kan complexe technische kwetsbaarheden en analyses begrijpelijk vertalen naar bruikbare adviezen voor de eindgebruiker en het management.
 
 📂 Uitgelichte Projecten
 - **[MindGate Challenge]**: Ontwerp van een gesegmenteerde VMware-netwerkomgeving, exploitatie van bekende CVE's, remote code execution, SSH-pivoting en privilege escalation, afgerond met twee PTES-conforme pentestrapporten.
